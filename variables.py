@@ -1,5 +1,7 @@
-a= 'ab'
-b=55
-c = a+b
+a = 5
 
-print (c)
+b = 7
+
+c = a + b
+
+print(c)
