@@ -1,7 +1,5 @@
-a = 5
+f=True
+g=False
 
-b = 7
-
-c = a + b
-
-print(c)
+y_logico=not f
+print(y_logico)
